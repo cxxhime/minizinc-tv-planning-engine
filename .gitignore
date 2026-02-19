@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+build/
+dist/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Minizinc / solver artifacts
+*.fzn
+*.ozn
+*.mzc
+*.dzn
+
+# Outputs / data artifacts
+AIRTIME/schedule.json
+AIRTIME/data/*.tmp
+
+# only for me hehe
+AIRTIME/data/README.md
+gamma_prompt.txt 

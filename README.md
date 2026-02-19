@@ -1,1 +1,0 @@
-# minizinc-tv-planning-engine
