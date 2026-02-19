@@ -41,5 +41,5 @@ AIRTIME/schedule.json
 AIRTIME/data/*.tmp
 
 # only for me hehe
-AIRTIME/data/README.md
+README.md
 gamma_prompt.txt 
